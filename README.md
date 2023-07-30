@@ -1,1 +1,2 @@
 # CAR_price_prediction
+The Car Price Prediction ML project is an advanced and innovative application of machine learning techniques to predict the price of cars based on various features and attributes. The project aims to assist both car sellers and buyers by providing accurate and data-driven estimates for used and new car prices. By leveraging historical car data and advanced ML algorithms, this project empowers users to make informed decisions while buying or selling cars
