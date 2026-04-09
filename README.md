@@ -61,7 +61,7 @@ Checked correlations to understand relationships between features and selling pr
 
 This ensured the data was clean, structured, and ready for modeling.
 
-<img width="972" height="489" alt="_- visual selection" src="https://github.com/user-attachments/assets/3104452e-cbf3-4e4e-8027-b27ccb99ae2a" />
+<img width="972" height="428" alt="_- visual selection" src="https://github.com/user-attachments/assets/11a5b8a7-6217-4815-985a-677643adb7bd" />
 
 
 🔍 Exploratory Data Analysis (EDA)
