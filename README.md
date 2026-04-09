@@ -61,6 +61,9 @@ Checked correlations to understand relationships between features and selling pr
 
 This ensured the data was clean, structured, and ready for modeling.
 
+<img width="972" height="489" alt="_- visual selection" src="https://github.com/user-attachments/assets/3104452e-cbf3-4e4e-8027-b27ccb99ae2a" />
+
+
 🔍 Exploratory Data Analysis (EDA)
 
 EDA was performed to understand patterns and relationships in the data.
