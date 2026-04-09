@@ -157,6 +157,9 @@ Ensemble models outperform simpler regression models
 
 Feature engineering plays a major role in improving accuracy
 
+<img width="696" height="253" alt="_- visual selection (2)" src="https://github.com/user-attachments/assets/fc7ee0b1-0bc1-4b6c-939c-3ef0ccc5b606" />
+
+
 🧰 Tools & Technologies Used
 
 Python
