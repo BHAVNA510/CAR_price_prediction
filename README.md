@@ -80,6 +80,9 @@ Cars sold by individuals generally have lower prices than dealer-listed cars
 
 Visualizations such as pair plots, correlation heatmaps, and scatter plots were used to validate these insights.
 
+<img width="746" height="673" alt="_- visual selection (1)" src="https://github.com/user-attachments/assets/71893c93-84f0-4454-a31b-23a785ecda99" />
+
+
 🛠 Feature Engineering
 
 Feature engineering was a key part of the project.
